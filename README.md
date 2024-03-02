@@ -1,0 +1,4 @@
+Dataset used for the paper "How beneficial is pre-training on a narrow domain-specific corpus for information extraction about photocatalytic water splitting?" by Taketomo Isazawa and Jacqueline M. Cole. J.M.C. is grateful for the BASF/Royal Academy of Engineering Research Chair in Data-Driven Molecular Engineering of Functional Materials, which includes PhD studentship support (for T.I.). This Chair is also partly supported by the Science and Technology Facilities Council. They are also indebted to the Argonne Leadership Computing Facility, which is a DOE Office of Science Facility, for use of its research resources, under contract No. DE-AC02-06CH11357.
+
+This is an adapted version of the dataset used in "Automated Construction of a Photocatalysis Database for
+Water-Splitting Applications by exploiting Inter- and Intra-Sentence relations." by the same authors, with the knowledge representation and records updated to match that used in the paper.
