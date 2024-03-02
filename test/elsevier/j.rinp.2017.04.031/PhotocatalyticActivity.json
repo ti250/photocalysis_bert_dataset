@@ -1,0 +1,8 @@
+{
+"1": {"_id": 1, "cocatalyst": 1, "compound": 1, "additives": [1], "light_source": 1, "raw_value": "246", "raw_units": "\u03bcmol/h", "value": [246.0], "val_units": "246 \u03bcmol/h"},
+"2": {"_id": 2, "cocatalyst": 2, "compound": 2, "additives": [2], "light_source": 2, "raw_value": "388", "raw_units": "\u03bcmol/h", "value": [388.0], "val_units": "388 \u03bcmol/h"},
+"3": {"_id": 3, "cocatalyst": 3, "compound": 3, "additives": [3], "light_source": 3, "raw_value": "218", "raw_units": "\u03bcmol/h", "value": [218.0], "val_units": "218 \u03bcmol/h"},
+"4": {"_id": 4, "cocatalyst": 4, "compound": 4, "additives": [4], "light_source": 4, "raw_value": "120", "raw_units": "\u03bcmol/h", "value": [120.0], "val_units": "120 \u03bcmol/h"},
+"5": {"_id": 5, "cocatalyst": 5, "compound": 5, "additives": [5], "light_source": 5, "raw_value": "267", "raw_units": "\u03bcmol/h", "value": [267.0], "val_units": "267 \u03bcmol/h"},
+"6": {"_id": 6, "cocatalyst": 6, "compound": 6, "additives": [6], "light_source": 6, "raw_value": "121", "raw_units": "\u03bcmol/h", "value": [121.0], "val_units": "121 \u03bcmol/h"}
+}

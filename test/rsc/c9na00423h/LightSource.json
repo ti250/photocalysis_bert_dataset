@@ -1,0 +1,7 @@
+{
+"1": {"_id": 1, "name": "LED"},
+"2": {"_id": 2, "name": "Xe lamp", "filters": "UV cut-off filter"},
+"3": {"_id": 3, "name": "Xe lamp", "filters": "UV cut-off filter"},
+"4": {"_id": 4, "name": "Xe lamp", "filters": "UV cut-off filter"},
+"5": {"_id": 5, "name": "Xe lamp", "filters": "UV cut-off filter"}
+}

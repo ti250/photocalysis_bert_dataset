@@ -1,0 +1,15 @@
+{
+"1": {"_id": 1, "compound": 1, "additives": [1], "light_source": 1, "light_source_wavelength": 1, "raw_value": "675", "raw_units": "\u03bcmol g\u22121 h\u22121", "value": [675.0], "val_units": "675 \u03bcmolg\u22121h\u22121"},
+"2": {"_id": 2, "compound": 2, "additives": null, "light_source": 2, "irradiation_time": 1, "raw_value": "20.27", "raw_units": "\u03bcmol g\u22121 h\u22121", "value": [20.27], "val_units": "20.27 \u03bcmolg\u22121h\u22121"},
+"3": {"_id": 3, "compound": 3, "additives": null, "light_source": 3, "irradiation_time": 2, "raw_value": "19.25", "raw_units": "\u03bcmol g\u22121 h\u22121", "value": [19.25], "val_units": "19.25 \u03bcmolg\u22121h\u22121"},
+"4": {"_id": 4, "compound": 4, "additives": null, "light_source": 4, "irradiation_time": 3, "raw_value": "19.97", "raw_units": "\u03bcmol g\u22121 h\u22121", "value": [19.97], "val_units": "19.97 \u03bcmolg\u22121h\u22121"},
+"5": {"_id": 5, "compound": 5, "additives": null, "light_source": 5, "irradiation_time": 4, "raw_value": "19.83 \u00b1 0.52", "raw_units": "\u03bcmol g\u22121 h\u22121", "value": [19.83], "val_units": "19.83\u00b10.52 \u03bcmolg\u22121h\u22121"},
+"6": {"_id": 6, "compound": 6, "additives": null, "light_source": 6, "light_source_wavelength": 2, "raw_value": "443", "raw_units": "\u03bcmol g\u22121 h\u22121", "value": [443.0], "val_units": "443 \u03bcmolg\u22121h\u22121"},
+"7": {"_id": 7, "compound": 7, "additives": null, "light_source": 7, "light_source_wavelength": 3, "raw_value": "410", "raw_units": "\u03bcmol g\u22121 h\u22121", "value": [410.0], "val_units": "410 \u03bcmolg\u22121h\u22121"},
+"8": {"_id": 8, "compound": 8, "additives": null, "light_source": 8, "light_source_wavelength": 4, "raw_value": "419", "raw_units": "\u03bcmol g\u22121 h\u22121", "value": [419.0], "val_units": "419 \u03bcmolg\u22121h\u22121"},
+"9": {"_id": 9, "compound": 9, "additives": null, "light_source": 9, "light_source_wavelength": 5, "raw_value": "667", "raw_units": "\u03bcmol g\u22121 h\u22121", "value": [667.0], "val_units": "667 \u03bcmolg\u22121h\u22121"},
+"10": {"_id": 10, "compound": 10, "additives": null, "light_source": 10, "light_source_wavelength": 6, "raw_value": "223", "raw_units": "\u03bcmol g\u22121 h\u22121", "value": [223.0], "val_units": "223 \u03bcmolg\u22121h\u22121"},
+"11": {"_id": 11, "compound": 11, "additives": [2], "light_source": 11, "light_source_wavelength": 7, "raw_value": "490", "raw_units": "\u03bcmol g\u22121 h\u22121", "value": [490.0], "val_units": "490 \u03bcmolg\u22121h\u22121"},
+"12": {"_id": 12, "compound": 12, "additives": [3], "light_source": 12, "raw_value": "1170", "raw_units": "\u03bcmol g\u22121 h\u22121", "value": [1170.0], "val_units": "1170 \u03bcmolg\u22121h\u22121"},
+"13": {"_id": 13, "compound": 13, "additives": [4], "light_source": 13, "raw_value": "7.8", "raw_units": "\u03bcmol min\u22121", "value": [7.8], "val_units": "7.8 \u03bcmolmin\u22121"}
+}

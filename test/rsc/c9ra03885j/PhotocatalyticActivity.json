@@ -1,0 +1,5 @@
+{
+"1": {"_id": 1, "compound": 1, "additives": null, "light_source": 1, "light_source_power": 1, "raw_value": "5.23", "raw_units": "\u03bcmol h\u22121", "value": [5.23], "val_units": "5.23 \u03bcmolh\u22121"},
+"2": {"_id": 2, "compound": 2, "additives": null, "light_source": 2, "light_source_power": 2, "raw_value": "0.40", "raw_units": "\u03bcmol h\u22121", "value": [0.4], "val_units": "0.40 \u03bcmolh\u22121"},
+"3": {"_id": 3, "compound": 3, "additives": null, "light_source": 3, "light_source_power": 3, "raw_value": "1.13", "raw_units": "\u03bcmol h\u22121", "value": [1.13], "val_units": "1.13 \u03bcmolh\u22121"}
+}

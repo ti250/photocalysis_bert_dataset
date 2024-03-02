@@ -1,0 +1,5 @@
+{
+"1": {"_id": 1, "cocatalyst": 1, "compound": 1, "additives": [1], "light_source": 1, "light_source_wavelength": 1, "light_source_power": 1, "raw_value": "4.32", "raw_units": "%", "value": [4.32], "val_units": "4.32 %"},
+"2": {"_id": 2, "cocatalyst": 2, "compound": 2, "additives": [2], "light_source": 2, "light_source_wavelength": 2, "light_source_power": 2, "raw_value": "0.12", "raw_units": "%", "value": [0.12], "val_units": "0.12 %"},
+"3": {"_id": 3, "cocatalyst": 3, "compound": 3, "additives": [3], "light_source": 3, "light_source_wavelength": 3, "light_source_power": 3, "raw_value": "0.69", "raw_units": "%", "value": [0.69], "val_units": "0.69 %"}
+}

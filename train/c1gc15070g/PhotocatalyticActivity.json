@@ -1,0 +1,7 @@
+{
+"1": {"_id": 1, "cocatalyst": 1, "compound": 1, "additives": null, "light_source": 1, "light_source_wavelength": 1, "light_source_power": 1, "irradiation_time": 1, "raw_value": "3.45", "raw_units": "mmol g\u22121 h\u22121", "value": [3.45], "val_units": "3.45 mmolg\u22121h\u22121"},
+"2": {"_id": 2, "cocatalyst": 2, "compound": 2, "additives": [1], "light_source": 2, "light_source_power": 2, "raw_value": "29.2", "raw_units": "mmol g\u22121 h\u22121", "value": [29.2], "val_units": "29.2 mmolg\u22121h\u22121"},
+"3": {"_id": 3, "cocatalyst": 3, "compound": 3, "additives": [2], "raw_value": "1.115", "raw_units": "mmol g\u22121 h\u22121", "value": [1.115], "val_units": "1.115 mmolg\u22121h\u22121"},
+"4": {"_id": 4, "cocatalyst": 4, "compound": 4, "additives": [3], "raw_value": "38.4", "raw_units": "mmol g\u22121 h\u22121", "value": [38.4], "val_units": "38.4 mmolg\u22121h\u22121"},
+"5": {"_id": 5, "cocatalyst": 5, "compound": 5, "additives": [4], "light_source": 3, "light_source_wavelength": 2, "light_source_power": 3, "irradiation_time": 2, "raw_value": "26.94", "raw_units": "mmol g\u22121 h\u22121", "value": [26.94], "val_units": "26.94 mmolg\u22121h\u22121"}
+}

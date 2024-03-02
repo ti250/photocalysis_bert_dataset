@@ -1,0 +1,4 @@
+{
+"1": {"_id": 1, "compound": 3, "additives": null, "raw_value": "13", "raw_units": "\u03bcmol h\u22121", "value": [13.0], "val_units": "13 \u03bcmolh\u22121"},
+"2": {"_id": 2, "compound": 4, "additives": null, "raw_value": "\u223c0", "raw_units": "\u03bcmol h\u22121", "value": [0.0], "val_units": "\u223c0 \u03bcmolh\u22121"}
+}

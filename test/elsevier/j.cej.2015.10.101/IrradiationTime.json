@@ -1,0 +1,12 @@
+{
+"1": {"_id": 1, "raw_value": "360", "raw_units": "min", "value": [360.0], "units": "Minute^(1.0)"},
+"2": {"_id": 2, "raw_value": "360", "raw_units": "min", "value": [360.0], "units": "Minute^(1.0)"},
+"3": {"_id": 3, "raw_value": "24", "raw_units": "h", "value": [24.0], "units": "Hour^(1.0)"},
+"4": {"_id": 4, "raw_value": "24", "raw_units": "h", "value": [24.0], "units": "Hour^(1.0)"},
+"5": {"_id": 5, "raw_value": "360", "raw_units": "min", "value": [360.0], "units": "Minute^(1.0)"},
+"6": {"_id": 6, "raw_value": "360", "raw_units": "min", "value": [360.0], "units": "Minute^(1.0)"},
+"7": {"_id": 7, "raw_value": "360", "raw_units": "min", "value": [360.0], "units": "Minute^(1.0)"},
+"8": {"_id": 8, "raw_value": "360", "raw_units": "min", "value": [360.0], "units": "Minute^(1.0)"},
+"9": {"_id": 9, "raw_value": "360", "raw_units": "min", "value": [360.0], "units": "Minute^(1.0)"},
+"10": {"_id": 10, "raw_value": "360", "raw_units": "min", "value": [360.0], "units": "Minute^(1.0)"}
+}

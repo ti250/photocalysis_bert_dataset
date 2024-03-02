@@ -1,0 +1,7 @@
+{
+"1": {"_id": 1, "names": ["InGaZn", "InGaZn (3:1:1)"], "labels": null, "roles": null},
+"2": {"_id": 2, "names": ["InGaZn", "InGaZn (1:1:1)"], "labels": null, "roles": null},
+"3": {"_id": 3, "names": ["InGaZn", "InGaZn (3:1:1)", "InGaZn (3:1:1) nanorods"], "labels": null, "roles": null},
+"4": {"_id": 4, "names": ["InGaZn"], "labels": null, "roles": null},
+"5": {"_id": 5, "names": ["InGaZn"], "labels": null, "roles": null}
+}

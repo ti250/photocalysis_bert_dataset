@@ -1,0 +1,7 @@
+{
+"1": {"_id": 1, "raw_value": "125", "raw_units": "W", "value": [125.0], "units": "Watt^(1.0)"},
+"2": {"_id": 2, "raw_value": "125", "raw_units": "W", "value": [125.0], "units": "Watt^(1.0)"},
+"3": {"_id": 3, "raw_value": "125", "raw_units": "W", "value": [125.0], "units": "Watt^(1.0)"},
+"4": {"_id": 4, "raw_value": "125", "raw_units": "W", "value": [125.0], "units": "Watt^(1.0)"},
+"5": {"_id": 5, "raw_value": "125", "raw_units": "W", "value": [125.0], "units": "Watt^(1.0)"}
+}

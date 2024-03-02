@@ -1,0 +1,7 @@
+{
+"1": {"_id": 1, "names": ["MoS2/Ta3N5", "MoS2/Ta3N5 heterostructure"], "labels": null, "roles": null},
+"2": {"_id": 2, "names": ["MoS2/Ta3N5", "MoS2/Ta3N5 heterostructure"], "labels": null, "roles": null},
+"3": {"_id": 3, "names": ["MoS2/bulk-Ta3N5", "MoS2/bulk-Ta3N5 composite"], "labels": null, "roles": null},
+"4": {"_id": 4, "names": ["Ta3N5", "Ta3N5 nanosheets"], "labels": null, "roles": null},
+"5": {"_id": 5, "names": ["MoS2/Ta3N5"], "labels": null, "roles": null}
+}

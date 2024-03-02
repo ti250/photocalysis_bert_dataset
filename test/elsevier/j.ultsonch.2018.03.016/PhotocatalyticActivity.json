@@ -1,0 +1,5 @@
+{
+"1": {"_id": 1, "compound": 1, "additives": [1], "light_source": 1, "light_source_wavelength": 1, "raw_value": "0.83", "raw_units": "mmol\u202fg\u22121\u202fh\u22121", "value": [0.83], "val_units": "0.83 mmol\u202fg\u22121\u202fh\u22121"},
+"2": {"_id": 2, "compound": 2, "additives": [2], "light_source": 2, "light_source_wavelength": 2, "raw_value": "0.08", "raw_units": "mmol\u202fg\u22121\u202fh\u22121", "value": [0.08], "val_units": "0.08 mmol\u202fg\u22121\u202fh\u22121"},
+"3": {"_id": 3, "compound": 3, "additives": [3], "light_source": 3, "light_source_wavelength": 3, "raw_value": "0.12", "raw_units": "mmol\u202fg\u22121\u202fh\u22121", "value": [0.12], "val_units": "0.12 mmol\u202fg\u22121\u202fh\u22121"}
+}

@@ -1,0 +1,3 @@
+{
+"1": {"_id": 1, "compound": 2, "additives": [2], "light_source": 2, "light_source_wavelength": 2, "light_source_power": 2, "irradiation_time": 2, "raw_value": "15.37", "raw_units": "\u03bcmol H2 h\u22121", "value": [15.37], "val_units": "15.37 \u03bcmolH2h\u22121"}
+}

@@ -1,0 +1,15 @@
+{
+"1": {"_id": 1, "name": "near-UV/visible light"},
+"2": {"_id": 2, "name": "Hg lamp"},
+"3": {"_id": 3, "name": "Hg lamp"},
+"4": {"_id": 4, "name": "Hg lamp"},
+"5": {"_id": 5, "name": "Hg lamp"},
+"6": {"_id": 6, "name": "near-UV/visible light"},
+"7": {"_id": 7, "name": "near-UV/visible light"},
+"8": {"_id": 8, "name": "near-UV/visible light"},
+"9": {"_id": 9, "name": "near-UV/visible light"},
+"10": {"_id": 10, "name": "near-UV/visible light"},
+"11": {"_id": 11, "name": "near-UV/visible light"},
+"12": {"_id": 12, "name": "mercury lamp"},
+"13": {"_id": 13, "name": "mercury lamp"}
+}

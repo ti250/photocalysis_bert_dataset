@@ -1,0 +1,10 @@
+{
+"1": {"_id": 1, "raw_value": "420", "raw_units": "nm", "value": [420.0], "units": "(10^-9.0) * Meter^(1.0)"},
+"2": {"_id": 2, "raw_value": "800", "raw_units": "nm", "value": [800.0], "units": "(10^-9.0) * Meter^(1.0)"},
+"3": {"_id": 3, "raw_value": "600", "raw_units": "nm", "value": [600.0], "units": "(10^-9.0) * Meter^(1.0)"},
+"4": {"_id": 4, "raw_value": ">420", "raw_units": "nm", "value": [420.0], "units": "(10^-9.0) * Meter^(1.0)"},
+"5": {"_id": 5, "raw_value": ">500", "raw_units": "nm", "value": [500.0], "units": "(10^-9.0) * Meter^(1.0)"},
+"6": {"_id": 6, "raw_value": ">800", "raw_units": "nm", "value": [800.0], "units": "(10^-9.0) * Meter^(1.0)"},
+"7": {"_id": 7, "raw_value": ">420", "raw_units": "nm", "value": [420.0], "units": "(10^-9.0) * Meter^(1.0)"},
+"8": {"_id": 8, "raw_value": ">420", "raw_units": "nm", "value": [420.0], "units": "(10^-9.0) * Meter^(1.0)"}
+}

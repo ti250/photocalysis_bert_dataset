@@ -1,0 +1,4 @@
+{
+"1": {"_id": 1, "compound": 1, "additives": [1], "light_source": 1, "light_source_wavelength": 1, "light_source_power": 1, "irradiation_time": 1, "raw_value": "\u223c133.5", "raw_units": "\u03bcmol g\u22121", "value": [133.5], "val_units": "\u223c133.5 \u03bcmolg\u22121"},
+"2": {"_id": 2, "compound": 2, "additives": [2], "light_source": 2, "light_source_wavelength": 2, "light_source_power": 2, "raw_value": "\u223c31.7", "raw_units": "\u03bcmol g\u22121", "value": [31.7], "val_units": "\u223c31.7 \u03bcmolg\u22121"}
+}

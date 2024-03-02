@@ -1,0 +1,6 @@
+{
+"1": {"_id": 1, "raw_value": "20", "raw_units": "min", "value": [20.0], "units": "Minute^(1.0)"},
+"2": {"_id": 2, "raw_value": "20", "raw_units": "min", "value": [20.0], "units": "Minute^(1.0)"},
+"3": {"_id": 3, "raw_value": "20", "raw_units": "min", "value": [20.0], "units": "Minute^(1.0)"},
+"4": {"_id": 4, "raw_value": "20", "raw_units": "min", "value": [20.0], "units": "Minute^(1.0)"}
+}

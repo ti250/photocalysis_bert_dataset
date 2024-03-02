@@ -1,0 +1,4 @@
+{
+"1": {"_id": 1, "raw_value": "4", "raw_units": "hours", "value": [4.0], "units": "Hour^(1.0)"},
+"2": {"_id": 2, "raw_value": "18", "raw_units": "hours", "value": [18.0], "units": "Hour^(1.0)"}
+}

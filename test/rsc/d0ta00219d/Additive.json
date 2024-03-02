@@ -1,0 +1,19 @@
+{
+"1": {"_id": 1, "compound": 2},
+"2": {"_id": 2, "compound": 3},
+"3": {"_id": 3, "compound": 5},
+"4": {"_id": 4, "compound": 7},
+"5": {"_id": 5, "compound": 9},
+"6": {"_id": 6, "compound": 10},
+"7": {"_id": 7, "compound": 12},
+"8": {"_id": 8, "compound": 14},
+"9": {"_id": 9, "compound": 16},
+"10": {"_id": 10, "compound": 18},
+"11": {"_id": 11, "compound": 20},
+"12": {"_id": 12, "compound": 22},
+"13": {"_id": 13, "compound": 24},
+"14": {"_id": 14, "compound": 26},
+"15": {"_id": 15, "compound": 28},
+"16": {"_id": 16, "compound": 30},
+"17": {"_id": 17, "compound": 31}
+}

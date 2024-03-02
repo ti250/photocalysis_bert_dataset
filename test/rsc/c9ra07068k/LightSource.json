@@ -1,0 +1,10 @@
+{
+"1": {"_id": 1, "name": "xenon lamp"},
+"2": {"_id": 2, "name": "xenon lamp"},
+"3": {"_id": 3, "name": "xenon lamp"},
+"4": {"_id": 4, "name": "xenon lamp", "filters": "420 nm cutoff filter"},
+"5": {"_id": 5, "name": "xenon lamp"},
+"6": {"_id": 6, "name": "xenon lamp"},
+"7": {"_id": 7, "name": "xenon lamp", "filters": "420 nm cutoff filter"},
+"8": {"_id": 8, "name": "xenon lamp", "filters": "420 nm cutoff filter"}
+}

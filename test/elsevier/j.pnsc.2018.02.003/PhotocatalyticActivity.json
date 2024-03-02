@@ -1,0 +1,7 @@
+{
+"1": {"_id": 1, "compound": 1, "additives": [1], "light_source": 1, "light_source_power": 1, "raw_value": "119.4", "raw_units": "\u00b5molh\u22121g\u22121", "value": [119.4], "val_units": "119.4 \u00b5molh\u22121g\u22121"},
+"2": {"_id": 2, "compound": 2, "additives": [2], "light_source": 2, "light_source_power": 2, "raw_value": "5.97", "raw_units": "\u00b5molh\u22121", "value": [5.97], "val_units": "5.97 \u00b5molh\u22121"},
+"3": {"_id": 3, "compound": 3, "additives": [3], "light_source": 3, "light_source_power": 3, "raw_value": "0.93", "raw_units": "\u00b5molh\u22121", "value": [0.93], "val_units": "0.93 \u00b5molh\u22121"},
+"4": {"_id": 4, "cocatalyst": 1, "compound": 4, "additives": [4], "light_source": 4, "light_source_power": 4, "raw_value": "5.78", "raw_units": "\u00b5molh\u22121", "value": [5.78], "val_units": "5.78 \u00b5molh\u22121"},
+"5": {"_id": 5, "compound": 5, "additives": null, "light_source_wavelength": 1, "raw_value": "2.3", "raw_units": "\u03bcmolh\u22121", "value": [2.3], "val_units": "2.3 \u03bcmolh\u22121"}
+}

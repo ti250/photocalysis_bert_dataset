@@ -1,0 +1,6 @@
+{
+"1": {"_id": 1, "compound": 2, "additives": null, "raw_value": "180", "raw_units": "\u03bcmol h\u22121", "value": [180.0], "val_units": "180 \u03bcmolh\u22121"},
+"2": {"_id": 2, "compound": 3, "additives": null, "raw_value": "0.2", "raw_units": "\u03bcmol h\u22121", "value": [0.2], "val_units": "0.2 \u03bcmolh\u22121"},
+"3": {"_id": 3, "compound": 4, "additives": null, "raw_value": "145", "raw_units": "\u03bcmol h\u22121", "value": [145.0], "val_units": "145 \u03bcmolh\u22121"},
+"4": {"_id": 4, "compound": 5, "additives": null, "raw_value": "1.6", "raw_units": "\u03bcmol h\u22121", "value": [1.6], "val_units": "1.6 \u03bcmolh\u22121"}
+}

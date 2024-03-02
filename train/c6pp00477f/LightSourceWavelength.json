@@ -1,0 +1,9 @@
+{
+"1": {"_id": 1, "raw_value": "366", "raw_units": "nm", "value": [366.0], "units": "(10^-9.0) * Meter^(1.0)"},
+"2": {"_id": 2, "raw_value": "366", "raw_units": "nm", "value": [366.0], "units": "(10^-9.0) * Meter^(1.0)"},
+"3": {"_id": 3, "raw_value": "366", "raw_units": "nm", "value": [366.0], "units": "(10^-9.0) * Meter^(1.0)"},
+"4": {"_id": 4, "raw_value": "366", "raw_units": "nm", "value": [366.0], "units": "(10^-9.0) * Meter^(1.0)"},
+"5": {"_id": 5, "raw_value": "366", "raw_units": "nm", "value": [366.0], "units": "(10^-9.0) * Meter^(1.0)"},
+"6": {"_id": 6, "raw_value": "366", "raw_units": "nm", "value": [366.0], "units": "(10^-9.0) * Meter^(1.0)"},
+"7": {"_id": 7, "raw_value": "366", "raw_units": "nm", "value": [366.0], "units": "(10^-9.0) * Meter^(1.0)"}
+}

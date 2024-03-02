@@ -1,0 +1,15 @@
+{
+"1": {"_id": 1, "compound": 1, "additives": null, "raw_value": "6 to 37 ", "raw_units": "mmol h\u22121 gcat\u22121", "value": [6.0, 37.0], "val_units": "6to37 mmolh\u22121gcat\u22121"},
+"2": {"_id": 2, "compound": 2, "additives": null, "raw_value": "40", "raw_units": "mmol h\u22121 gcat\u22121", "value": [40.0], "val_units": "40 mmolh\u22121gcat\u22121"},
+"3": {"_id": 3, "compound": 3, "additives": null, "raw_value": "3.5", "raw_units": "mmol h\u22121 gcat\u22121", "value": [3.5], "val_units": "3.5 mmolh\u22121gcat\u22121"},
+"4": {"_id": 4, "compound": 4, "additives": null, "raw_value": "0.2", "raw_units": "mmol h\u22121 gcat\u22121", "value": [0.2], "val_units": "0.2 mmolh\u22121gcat\u22121"},
+"5": {"_id": 5, "compound": 5, "additives": [1], "light_source": 1, "raw_value": "0.4", "raw_units": "mmol h\u22121 gcat\u22121", "value": [0.4], "val_units": "0.4 mmolh\u22121gcat\u22121"},
+"6": {"_id": 6, "compound": 6, "additives": [2], "light_source": 2, "raw_value": "0.2", "raw_units": "mmol h\u22121 gcat\u22121", "value": [0.2], "val_units": "0.2 mmolh\u22121gcat\u22121"},
+"7": {"_id": 7, "compound": 7, "additives": [3], "raw_value": "375", "raw_units": "\u03bcmol h\u22121 gcat\u22121", "value": [375.0], "val_units": "375 \u03bcmolh\u22121gcat\u22121"},
+"8": {"_id": 8, "compound": 8, "additives": [4], "raw_value": "424", "raw_units": "\u03bcmol h\u22121 gcat\u22121", "value": [424.0], "val_units": "424 \u03bcmolh\u22121gcat\u22121"},
+"9": {"_id": 9, "cocatalyst": 1, "compound": 9, "additives": [5], "raw_value": "2500", "raw_units": "\u03bcmol h\u22121 gcat\u22121", "value": [2500.0], "val_units": "2500 \u03bcmolh\u22121gcat\u22121"},
+"10": {"_id": 10, "compound": 10, "additives": null, "raw_value": "6", "raw_units": "\u03bcmol h\u22121 gcat\u22121", "value": [6.0], "val_units": "6 \u03bcmolh\u22121gcat\u22121"},
+"11": {"_id": 11, "compound": 11, "additives": null, "raw_value": "155", "raw_units": "\u03bcmol h\u22121 gcat\u22121", "value": [155.0], "val_units": "155 \u03bcmolh\u22121gcat\u22121"},
+"12": {"_id": 12, "compound": 12, "additives": [6], "light_source": 3, "irradiation_time": 1, "raw_value": "200", "raw_units": "\u03bcmol h\u22121 g\u22121", "value": [200.0], "val_units": "200 \u03bcmolh\u22121g\u22121"},
+"13": {"_id": 13, "compound": 13, "additives": null, "light_source": 4, "irradiation_time": 2, "raw_value": "0.045", "raw_units": "\u03bcmol H2 g\u22121", "value": [0.045], "val_units": "0.045 \u03bcmolH2g\u22121"}
+}

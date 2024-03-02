@@ -1,0 +1,6 @@
+{
+"1": {"_id": 1, "name": "UV irradiation"},
+"2": {"_id": 2, "name": "Xe arc lamp", "filters": "cutoff filter"},
+"3": {"_id": 3, "name": "UV irradiation"},
+"4": {"_id": 4, "name": "Xe arc lamp", "filters": "cutoff fitler"}
+}

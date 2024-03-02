@@ -1,0 +1,16 @@
+{
+"1": {"_id": 1, "raw_value": "4", "raw_units": "h", "value": [4.0], "units": "Hour^(1.0)"},
+"2": {"_id": 2, "raw_value": "30", "raw_units": "h", "value": [30.0], "units": "Hour^(1.0)"},
+"3": {"_id": 3, "raw_value": "22", "raw_units": "h", "value": [22.0], "units": "Hour^(1.0)"},
+"4": {"_id": 4, "raw_value": "4", "raw_units": "h", "value": [4.0], "units": "Hour^(1.0)"},
+"5": {"_id": 5, "raw_value": "4", "raw_units": "h", "value": [4.0], "units": "Hour^(1.0)"},
+"6": {"_id": 6, "raw_value": "30", "raw_units": "h", "value": [30.0], "units": "Hour^(1.0)"},
+"7": {"_id": 7, "raw_value": "6", "raw_units": "h", "value": [6.0], "units": "Hour^(1.0)"},
+"8": {"_id": 8, "raw_value": "8", "raw_units": "h", "value": [8.0], "units": "Hour^(1.0)"},
+"9": {"_id": 9, "raw_value": "4", "raw_units": "h", "value": [4.0], "units": "Hour^(1.0)"},
+"10": {"_id": 10, "raw_value": "4", "raw_units": "h", "value": [4.0], "units": "Hour^(1.0)"},
+"11": {"_id": 11, "raw_value": "4", "raw_units": "h", "value": [4.0], "units": "Hour^(1.0)"},
+"12": {"_id": 12, "raw_value": "4", "raw_units": "h", "value": [4.0], "units": "Hour^(1.0)"},
+"13": {"_id": 13, "raw_value": "22", "raw_units": "h", "value": [22.0], "units": "Hour^(1.0)"},
+"14": {"_id": 14, "raw_value": "4", "raw_units": "h", "value": [4.0], "units": "Hour^(1.0)"}
+}

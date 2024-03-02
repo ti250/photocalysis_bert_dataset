@@ -1,0 +1,4 @@
+{
+"1": {"_id": 1, "raw_value": "520", "raw_units": "nm", "value": [520.0], "units": "(10^-9.0) * Meter^(1.0)"},
+"2": {"_id": 2, "raw_value": "700 > \u03bb > 400", "raw_units": "nm", "value": [700.0, 400.0], "units": "(10^-9.0) * Meter^(1.0)"}
+}
